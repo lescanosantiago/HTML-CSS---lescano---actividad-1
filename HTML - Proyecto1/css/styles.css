@@ -1,0 +1,26 @@
+body 
+{
+    background-color: #f3b888;
+}
+h1,h3
+{
+    color: #389393;
+}
+hr
+{
+    background-color: #f5a25d;
+    border-color: white;
+    border-style: dotted none none none;
+    width: 50%;
+    border-width: 3px;
+}
+table, tr, td
+{
+    border-width: thin;
+    text-align: center;
+    border-color: black;
+}
+input, textarea
+{
+    border-style: solid;
+}
